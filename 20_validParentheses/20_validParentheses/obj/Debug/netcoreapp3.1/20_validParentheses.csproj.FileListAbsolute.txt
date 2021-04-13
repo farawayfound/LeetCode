@@ -1,0 +1,13 @@
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\bin\Debug\netcoreapp3.1\20_validParentheses.exe
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\bin\Debug\netcoreapp3.1\20_validParentheses.deps.json
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\bin\Debug\netcoreapp3.1\20_validParentheses.runtimeconfig.json
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\bin\Debug\netcoreapp3.1\20_validParentheses.runtimeconfig.dev.json
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\bin\Debug\netcoreapp3.1\20_validParentheses.dll
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\bin\Debug\netcoreapp3.1\20_validParentheses.pdb
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\obj\Debug\netcoreapp3.1\20_validParentheses.csprojAssemblyReference.cache
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\obj\Debug\netcoreapp3.1\20_validParentheses.AssemblyInfoInputs.cache
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\obj\Debug\netcoreapp3.1\20_validParentheses.AssemblyInfo.cs
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\obj\Debug\netcoreapp3.1\20_validParentheses.csproj.CoreCompileInputs.cache
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\obj\Debug\netcoreapp3.1\20_validParentheses.dll
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\obj\Debug\netcoreapp3.1\20_validParentheses.pdb
+C:\Users\david\source\LeetCode\20_validParentheses\20_validParentheses\obj\Debug\netcoreapp3.1\20_validParentheses.genruntimeconfig.cache
